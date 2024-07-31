@@ -1,8 +1,8 @@
 name: experience_meter
 description: "A custom meter chart component using CustomPainter."
-version: 0.0.5
-homepage: https://github.com/yourusername/my_package
-repository: https://github.com/yourusername/my_package
+version: 0.0.6
+homepage: https://github.com/Sanjaytechnomers/experience_meter
+repository: https://github.com/Sanjaytechnomers/experience_meter
 
 environment:
   sdk: '>=3.4.0 <4.0.0'

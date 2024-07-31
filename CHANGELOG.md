@@ -24,3 +24,9 @@
 
 ### Added
 - Added Demo
+
+## 0.0.6 - 2024-07-31
+
+### Added
+- Added github profile
+- Added app screen shot
