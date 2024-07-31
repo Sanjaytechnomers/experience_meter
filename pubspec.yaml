@@ -1,0 +1,30 @@
+name: experience_meter
+description: "A custom meter chart component using CustomPainter."
+version: 0.0.5
+homepage: https://github.com/yourusername/my_package
+repository: https://github.com/yourusername/my_package
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+example:
+  name: example
+  description: An example of how to use the experience_meter package.
+  dependencies:
+    flutter:
+      sdk: flutter
+    experience_meter:
+      path: example/lib/
+
+flutter:
+
