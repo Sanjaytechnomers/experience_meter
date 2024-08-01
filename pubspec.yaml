@@ -1,6 +1,6 @@
 name: experience_meter
 description: "A custom meter chart component using CustomPainter."
-version: 0.0.8
+version: 0.0.9
 homepage: https://github.com/Sanjaytechnomers/experience_meter
 repository: https://github.com/Sanjaytechnomers/experience_meter
 issue_tracker: https://github.com/Sanjaytechnomers/experience_meter/issues

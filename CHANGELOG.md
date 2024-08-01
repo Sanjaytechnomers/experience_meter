@@ -30,3 +30,9 @@
 ### Added
 - Added github profile
 - Added app screen shot
+
+## 0.0.9 - 2024-07-31
+
+### UI Change
+- Design change of the meter
+- 

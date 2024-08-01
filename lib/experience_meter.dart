@@ -29,12 +29,12 @@ class ExperienceMeter extends CustomPainter {
 
     Paint paint = Paint()
       ..style = PaintingStyle.stroke
-      ..strokeWidth = 20;
+      ..strokeWidth = 30; // Increased stroke width
 
     // Draw the segments with rounded ends
     for (Color color in segmentColors) {
       paint.color = color;
-      paint.strokeCap = StrokeCap.round;
+      paint.strokeCap = StrokeCap.butt;
       canvas.drawArc(
         Rect.fromCircle(
             center: Offset(size.width / 2, size.height), radius: radius),
